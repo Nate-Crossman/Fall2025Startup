@@ -1,6 +1,6 @@
 # Fall2025Startup
 ## Project Name: ArtTart 
-Name subject to change
+*Name subject to change*
 
 [My Notes](notes.md)
 
@@ -20,5 +20,25 @@ Note to self: remember to include picture of design HERE
 * Ability for admin accounts to remove comments and posts
 
 ## Technologies
-Please note I'm still learning this process, so some uses of these technologies may be innacurate and/or impossible
+*Please note I'm still learning this process, so some uses of these technologies may be innacurate and/or impossible*
+
+**HTML** - Basic Structure of pages, such as login page, viewing page, or upload page
+
+**CSS** - Create a neutral and non-destracting style that works with multiple devices
+
+**React** - Use react to create expressive interactable features such as my cleverly named like-dislike system, and be able to send that information to the backend of the system
+
+**Service** - Backend should be able to process...
+* Login data
+* Multiple Image Uploads
+* Storing Comments
+* Use a clock API to timestamp uploads
+
+**DB/Login** - Used for storage of accounts, posts, and comments
+
+**Websocket** - Displaying uploaded posts from other accounts.
+
+## Deployment Instructions
+*TBD*
+
 
