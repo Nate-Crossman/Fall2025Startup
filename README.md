@@ -10,7 +10,7 @@ This application ArtTart would be a place for artists to share their works in pr
 ## Design
 ![alt text][logo]
 
-[logo]: Design_sketch.heic "Sketch of Design"
+[logo]: https://github.com/Nate-Crossman/Fall2025Startup/blob/main/Design_Sketch.png "Sketch of Design"
 ## Key Features
 * Login Feature
 * Ability to upload images
